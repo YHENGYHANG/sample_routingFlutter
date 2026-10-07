@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'routes/app_routes.dart'; //tawgon si app_routes.dart para ma access ang mga routes nga gi define sa app_routes.dart
+import 'routes/app_routes.dart'; //import app_routes.dart so we can access the routes defined in app_routes.dart
 
 void main() {
   runApp(const MyApp());
@@ -24,6 +24,56 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // class MyApp extends StatelessWidget {
 //   const MyApp({super.key});
